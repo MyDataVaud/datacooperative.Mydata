@@ -2,6 +2,5 @@
 ## principes
 * https://github.com/CloudReady-ch/datacooperative
 ## applications
-### organisations et personnes dans la transition en Suisse
-* https://sites.google.com/cloudready.ch/acteurs-de-la-transition-ch/accueil
-* https://github.com/CloudReady-ch/datacooperative/tree/master/transition
+Usage propre pour MyDataVaud: A déterminer et compléter.
+Le Repository de ce projet dont le owner est CloudReady.ch (https://github.com/Pascal-KOTTE) a été mis en fork depuis CloudReady.
